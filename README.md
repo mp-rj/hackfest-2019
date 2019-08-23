@@ -1,4 +1,5 @@
 # HACKFEST 2019: "A Rio of Data"
+Para Português, veja o [LEIAME](https://github.com/mp-rj/hackfest-2019/blob/master/LEIAME.md).
 
 ## What is it?
 
