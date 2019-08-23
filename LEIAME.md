@@ -1,4 +1,5 @@
 # HACKFEST 2019: "Um Rio de Dados"
+For English, see [README](https://github.com/mp-rj/hackfest-2019/blob/master/README).
 
 ## O que é?
 
