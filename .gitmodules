@@ -1,0 +1,3 @@
+[submodule "dados-hackfestcc"]
+	path = dados-hackfestcc
+	url = https://github.com/mp-rj/dados-hackfestcc
